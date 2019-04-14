@@ -1,0 +1,6 @@
+Iniciar o projeto como SpringBoot Application
+
+Carregar arquivo da corrida:                        http://localhost:8080/loadKartRacingFile/kart001.txt
+
+Obter informação de Ranking:                        http://localhost:8080/kartRacingStats/ranking
+Obter informação de melhores voltar por piloto:     http://localhost:8080/kartRacingStats/topPilotsTurn
